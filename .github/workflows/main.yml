@@ -47,6 +47,6 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: kr483/devops_demo:latest
+          tags: vybh/hw8:latest
 
           # Add other relevant build parameters here
